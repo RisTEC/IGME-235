@@ -1,0 +1,2 @@
+ErrorDocument 404 /rr7617/235/error/error.html
+DirectoryIndex noterror.html
